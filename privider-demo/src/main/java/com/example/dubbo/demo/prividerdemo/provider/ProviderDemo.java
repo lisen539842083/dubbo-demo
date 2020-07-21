@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 
 /**
- * @description:
+ * @description:api的方式
  * @projectName:privider-demo
  * @see:com.example.dubbo.demo.prividerdemo.provider
  * @author:李森
